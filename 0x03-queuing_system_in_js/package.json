@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "0x03-queuing_system_in_js",
+  "version": "1.0.0",
+  "description": "0x03-queuing_system_in_js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "alx-backend"
+  },
+  "keywords": [],
+  "author": "sarah",
+  "license": "ISC"
+}
